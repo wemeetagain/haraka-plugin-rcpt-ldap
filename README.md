@@ -21,6 +21,8 @@ The logic that is followed is:
 
   * Run an LDAP search to see if the recipient can be found in LDAP.
 
+  * If the recipient is found, allow the email to be sent.
+
 
 
 <!-- leave these buried at the bottom of the document -->
